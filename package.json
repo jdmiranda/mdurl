@@ -33,5 +33,6 @@
     "eslint-config-standard": "^17.1.0",
     "mocha": "^10.2.0",
     "rollup": "^4.6.1"
-  }
+  },
+  "sideEffects": false
 }
